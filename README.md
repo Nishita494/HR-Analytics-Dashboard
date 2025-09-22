@@ -10,5 +10,5 @@
     • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
     • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-4. Dashboard looks like below :
+4. Dashboard Preview :
 ![Dashboard Preview](https://github.com/Nishita494/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.PNG)
