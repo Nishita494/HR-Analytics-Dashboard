@@ -10,5 +10,4 @@ The dashboard was built using the following tools and technologies :
     • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
     • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-6. Dashboard looks like below :
-https://github.com/Nishita494/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.PNG
+6. Dashboard looks like below : https://github.com/Nishita494/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.PNG
