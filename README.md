@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# POWER-BI Dashboard
 1. HR Analytics 
 
 2. The dashboard provides a comprehensive view of employee data, with a specific focus on attrition trends over time. 
