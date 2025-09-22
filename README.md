@@ -11,4 +11,4 @@
     • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Dashboard looks like below :
-![POWER-BI Dashboard]([https://example.com/logo.png](https://github.com/Nishita494/HR-Analytics-Dashboard/blob/main/Dashboard_SS.PNG))
+![Dashboard Preview]([https://example.com/logo.png](https://github.com/Nishita494/HR-Analytics-Dashboard/blob/main/Dashboard_SS.PNG))
